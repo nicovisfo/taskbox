@@ -11,4 +11,3 @@ jobs:
       - uses: chromaui/action@v1
         with:
           projectToken: ${{ secrets.7a35fbf7b619 }}
-          token: ${{ secrets.STORY }}
